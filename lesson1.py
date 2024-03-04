@@ -182,5 +182,5 @@ None NoneType ничего/пустота
 #number = int(input("enter number:"))
 
 print("hello world")
-
+print("hello world")
 #print(number > 99)
