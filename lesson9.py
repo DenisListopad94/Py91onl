@@ -68,14 +68,15 @@ import json
 #     "Kate": 6,
 # }
 #
-# students = {
-#     "Mark": 4,
-#     "Nick": 9,
-#     "Ann": 7,
-#     "Peter": 4,
-#     "Kate": 6
-# }
-#
+students = {
+    "Mark": 4,
+    "Nick": 9,
+    "Ann": 7,
+    "Peter": 4,
+    "Kate": 6
+}
+
 # with open("students.json", "w") as file:
 #     json.dump(students, file)
     # students = json.load(file)
+
