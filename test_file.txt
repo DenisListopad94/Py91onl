@@ -3,3 +3,5 @@ Nick 9
 Ann 7
 Peter 4
 Kate 6
+Vova 10
+Sanya 4
