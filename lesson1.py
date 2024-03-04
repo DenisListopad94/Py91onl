@@ -1,4 +1,5 @@
 # Изучаем python базовые понятия /однострочный комментарий
+
 """
 это
 многострочный
@@ -175,8 +176,11 @@ None NoneType ничего/пустота
 
 # print(number)
 # print(number_2)
-#
+
 # number, number_2, number_3, number_4 = map(int,input().split()) # unpack распаковка
 # print(number,number_2,number_3,number_4)
-number = int(input("enter number:"))
-print(number > 99)
+#number = int(input("enter number:"))
+
+print("hello world")
+
+#print(number > 99)
